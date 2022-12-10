@@ -3,12 +3,6 @@
   .page {
     margin-left: 200px;
   }
-  .Nav { border-right: 1px solid #6d6d6e; }
-  .Nav .closebtn {
-    display: none;
-  }
-}
-
 .inputContainer {
   width: 100%;
   height: 45px;
@@ -20,7 +14,7 @@
 
 .inputContainer input {
   border: 1px solid #868686;
-  width: 300px;
+  width: 250px;
   height: 30px;
   border-radius: 5px;
   padding-left: 10px;
@@ -29,7 +23,7 @@
 }
 
 .inputContainer img {
-  background-color: #51b0be;
+  background-color: #5192be;
   right: 0;
   border-radius: 5px;
   width: 25px;
@@ -42,7 +36,7 @@
 }
 
 button {
-  background-color:#51b0be;
+  background-color:#8251be;
   border-radius:5px;
   color:#ffffff;
   padding:10px 10px;
