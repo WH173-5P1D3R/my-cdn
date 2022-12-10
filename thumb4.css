@@ -1,8 +1,3 @@
-body, a {
-  background-color: #252526;
-  color: white;
-  font-family: Arial;
-}
 @media screen and (min-width: 700px) {
   #openmenubtn { display: none;}
   .page {
